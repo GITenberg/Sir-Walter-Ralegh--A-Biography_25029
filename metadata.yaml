@@ -1,0 +1,29 @@
+_repo: Sir-Walter-Ralegh--A-Biography_25029
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stebbing, W. (William)
+    alias: Stebbing, William
+    birthdate: 1832
+    deathdate: 1926
+    gutenberg_agent_id: '28352'
+    url: http://www.gutenberg.org/2009/agents/28352
+description: ''
+gutenberg_issued: '2008-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25029'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Raleigh, Walter, Sir, 1552?-1618'
+- !lcsh 'Biography'
+- !lcc 'DA'
+title: 'Sir Walter Ralegh: A Biography'
+url: http://www.gutenberg.org/ebooks/25029
