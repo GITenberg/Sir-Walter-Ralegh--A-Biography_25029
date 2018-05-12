@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '28352'
     url: http://www.gutenberg.org/2009/agents/28352
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25029#Sir-Walter-Ralegh--A-Biography
 gutenberg_issued: '2008-04-10'
 gutenberg_type: Text
 identifiers:
